@@ -1,0 +1,4102 @@
+{
+  "NHBoc": {
+    "smiles": [
+      "*NC(=O)OC(C)(C)C"
+    ]
+  },
+  "CH2(CH2)4CH3": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "OHC": {
+    "smiles": [
+      "*C=O"
+    ]
+  },
+  "SO3-": {
+    "smiles": [
+      "*S(=O)(=O)[O-]"
+    ]
+  },
+  "tBuOOC": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "H5C2O": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "C5H11": {
+    "smiles": [
+      "*CCCCC"
+    ]
+  },
+  "EtO": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "OiPr": {
+    "smiles": [
+      "*OC(C)C"
+    ]
+  },
+  "HOH2C": {
+    "smiles": [
+      "*CO"
+    ]
+  },
+  "H3C(H2C)4H2C": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "H7C3": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "COCO": {
+    "smiles": [
+      "*C(=O)C=O"
+    ]
+  },
+  "MeN": {
+    "smiles": [
+      "*N(*)C"
+    ]
+  },
+  "H3CS": {
+    "smiles": [
+      "*SC"
+    ]
+  },
+  "SiEt3": {
+    "smiles": [
+      "*[Si](CC)(CC)CC"
+    ]
+  },
+  "CONEt2": {
+    "smiles": [
+      "*C(=O)N(CC)CC"
+    ]
+  },
+  "OCH2Ph": {
+    "smiles": [
+      "*OCC1=CC=CC=C1"
+    ]
+  },
+  "PMB": {
+    "smiles": [
+      "*CC1=CC=C(OC)C=C1"
+    ]
+  },
+  "C4H8": {
+    "smiles": [
+      "*CCCC*"
+    ]
+  },
+  "CH2CH3": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "Oi-Pr": {
+    "smiles": [
+      "*OC(C)C"
+    ]
+  },
+  "FH2CO": {
+    "smiles": [
+      "*OCF"
+    ]
+  },
+  "NHNHCOCF3": {
+    "smiles": [
+      "*NNC(=O)C(F)(F)F"
+    ]
+  },
+  "H3COOC": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "SEt": {
+    "smiles": [
+      "*SCC"
+    ]
+  },
+  "OOC": {
+    "smiles": [
+      "*OC(=O)*"
+    ]
+  },
+  "Si(OEt)2": {
+    "smiles": [
+      "*[Si](*)(OCC)OCC"
+    ]
+  },
+  "CH2CH2Cl": {
+    "smiles": [
+      "*CCCl"
+    ]
+  },
+  "i-Bu": {
+    "smiles": [
+      "*CC(C)C"
+    ]
+  },
+  "PrO": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "(CH2CH2O)4H": {
+    "smiles": [
+      "*CCOCCOCCOCCO"
+    ]
+  },
+  "Si(OCH3)3": {
+    "smiles": [
+      "*[Si](OC)(OC)OC"
+    ]
+  },
+  "COCF3": {
+    "smiles": [
+      "*C(=O)C(F)(F)F"
+    ]
+  },
+  "ONO2": {
+    "smiles": [
+      "*O[N+](=O)[O-]"
+    ]
+  },
+  "SO3Na": {
+    "smiles": [
+      "*S(=O)(=O)O[Na]"
+    ]
+  },
+  "CN": {
+    "smiles": [
+      "*C#N"
+    ]
+  },
+  "C8H17": {
+    "smiles": [
+      "*CCCCCCCC"
+    ]
+  },
+  "O(CH2)10SH": {
+    "smiles": [
+      "*OCCCCCCCCCCS"
+    ]
+  },
+  "PMB2N": {
+    "smiles": [
+      "*N(CC1=CC=C(OC)C=C1)CC2=CC=C(OC)C=C2"
+    ]
+  },
+  "O(i-Pr)": {
+    "smiles": [
+      "*OC(C)C"
+    ]
+  },
+  "(CF2)4H": {
+    "smiles": [
+      "*C(F)(F)C(F)(F)C(F)(F)C(F)F"
+    ]
+  },
+  "TIPS": {
+    "smiles": [
+      "*[Si](C(C)C)(C(C)C)C(C)C"
+    ]
+  },
+  "CH3(CH2)7S": {
+    "smiles": [
+      "*SCCCCCCCC"
+    ]
+  },
+  "OCH2CN": {
+    "smiles": [
+      "*OCC#N"
+    ]
+  },
+  "C20H41": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "(CH2)10CH3": {
+    "smiles": [
+      "*CCCCCCCCCCC"
+    ]
+  },
+  "B(OH)2": {
+    "smiles": [
+      "*B(O)O"
+    ]
+  },
+  "NBu": {
+    "smiles": [
+      "*N(*)CCCC"
+    ]
+  },
+  "H23C11": {
+    "smiles": [
+      "*CCCCCCCCCCC"
+    ]
+  },
+  "OHCO": {
+    "smiles": [
+      "*OC=O"
+    ]
+  },
+  "N(CH2CH2CH3)2": {
+    "smiles": [
+      "*N(CCC)CCC"
+    ]
+  },
+  "Me3Sn": {
+    "smiles": [
+      "*[Sn]C(C)C"
+    ]
+  },
+  "n-C5H11": {
+    "smiles": [
+      "*CCCCC"
+    ]
+  },
+  "H9C4": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "PPh3Br": {
+    "smiles": [
+      "*P(C1=CC=CC=C1)(C2=CC=CC=C2)(C3=CC=CC=C3)[Br]"
+    ]
+  },
+  "CH2": {
+    "smiles": [
+      "*C*"
+    ]
+  },
+  "CO2": {
+    "smiles": [
+      "*C(=O)[O-]"
+    ]
+  },
+  "OTBDMS": {
+    "smiles": [
+      "*O[Si](C)(C)C(C)(C)C"
+    ]
+  },
+  "AcN": {
+    "smiles": [
+      "*N(*)C(=O)C"
+    ]
+  },
+  "(CH)2P2O(OEt)2": {
+    "smiles": [
+      "*/C=C/P(=O)(OCC)POCC"
+    ]
+  },
+  "TMS": {
+    "smiles": [
+      "*[Si](C)(C)C"
+    ]
+  },
+  "CH2CH2OH": {
+    "smiles": [
+      "*CCO"
+    ]
+  },
+  "S(O)2CH3": {
+    "smiles": [
+      "*S(=O)(=O)C"
+    ]
+  },
+  "H3CF2C": {
+    "smiles": [
+      "*C(F)(F)C"
+    ]
+  },
+  "OCD3": {
+    "smiles": [
+      "*OC([2H])([2H])[2H]"
+    ]
+  },
+  "SiMe3": {
+    "smiles": [
+      "*[Si](C)(C)C"
+    ]
+  },
+  "O2N": {
+    "smiles": [
+      "*[N+](=O)[O-]"
+    ]
+  },
+  "PhO": {
+    "smiles": [
+      "*OC1=CC=CC=C1"
+    ]
+  },
+  "NAc": {
+    "smiles": [
+      "*N(*)C(=O)C"
+    ]
+  },
+  "H3CH2CO": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "OPO3H2": {
+    "smiles": [
+      "*OP(=O)(O)O"
+    ]
+  },
+  "FmocHN": {
+    "smiles": [
+      "*NCC(=O)OCC1C3C(C2C1C=CC=C2)C=CC=C3"
+    ]
+  },
+  "Si(OMe)3": {
+    "smiles": [
+      "*[Si](OC)(OC)OC"
+    ]
+  },
+  "N(Et)2": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "EtO2CHN": {
+    "smiles": [
+      "*NC(=O)OCC"
+    ]
+  },
+  "O(CH2)11CH3": {
+    "smiles": [
+      "*OCCCCCCCCCCCC"
+    ]
+  },
+  "Bu": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "COOCH(CH3)2": {
+    "smiles": [
+      "*C(=O)OC(C)C"
+    ]
+  },
+  "CH3(CH2)15": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCC"
+    ]
+  },
+  "BnO": {
+    "smiles": [
+      "*OCC1=CC=CC=C1"
+    ]
+  },
+  "tBu": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "H5C2S": {
+    "smiles": [
+      "*SCC"
+    ]
+  },
+  "C2H5O": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "H17C8": {
+    "smiles": [
+      "*CCCCCCCC"
+    ]
+  },
+  "CONHCH2CF3": {
+    "smiles": [
+      "*C(=O)NCC(F)(F)F"
+    ]
+  },
+  "OSO3Na": {
+    "smiles": [
+      "*OS(=O)(=O)O[Na]"
+    ]
+  },
+  "SO2CH2F": {
+    "smiles": [
+      "*S(=O)(=O)CF"
+    ]
+  },
+  "EtO2S": {
+    "smiles": [
+      "*S(=O)(=O)CC"
+    ]
+  },
+  "O(CH2)6O": {
+    "smiles": [
+      "*OCCCCCCO*"
+    ]
+  },
+  "FH2C": {
+    "smiles": [
+      "*CF"
+    ]
+  },
+  "NCO": {
+    "smiles": [
+      "*N=C=O"
+    ]
+  },
+  "(CH2)4CH3": {
+    "smiles": [
+      "*CCCCC"
+    ]
+  },
+  "N(H)Me": {
+    "smiles": [
+      "*NC"
+    ]
+  },
+  "NHPMB": {
+    "smiles": [
+      "*NCC1=CC=C(OC)C=C1"
+    ]
+  },
+  "MsO": {
+    "smiles": [
+      "*OS(=O)(=O)C"
+    ]
+  },
+  "Si(NMe2)3": {
+    "smiles": [
+      "*[Si](N(C)C)(N(C)C)N(C)C"
+    ]
+  },
+  "t-BuOOC": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "CH2(CH2)7CH3": {
+    "smiles": [
+      "*CCCCCCCCC"
+    ]
+  },
+  "(CH2)6": {
+    "smiles": [
+      "*CCCCCC*"
+    ]
+  },
+  "CH2CH2CH2Cl": {
+    "smiles": [
+      "*CCCCl"
+    ]
+  },
+  "SO3": {
+    "smiles": [
+      "*S(=O)(=O)[O-]"
+    ]
+  },
+  "CO": {
+    "smiles": [
+      "*C(*)=O"
+    ]
+  },
+  "AcO": {
+    "smiles": [
+      "*OC(C)=O"
+    ]
+  },
+  "HOCH2": {
+    "smiles": [
+      "*CO"
+    ]
+  },
+  "NBn": {
+    "smiles": [
+      "*N(*)CC1=CC=CC=C1"
+    ]
+  },
+  "CH2CN": {
+    "smiles": [
+      "*CC#N"
+    ]
+  },
+  "(CH3)3C": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "OnBu": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "HO3SO": {
+    "smiles": [
+      "*OS(=O)(=O)O"
+    ]
+  },
+  "Cbz": {
+    "smiles": [
+      "*C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "SO2NH": {
+    "smiles": [
+      "*S(=O)(=O)N*"
+    ]
+  },
+  "(H3C)3C": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "N(C2H5)2": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "NHFmoc": {
+    "smiles": [
+      "*NCC(=O)OCC1C3C(C2C1C=CC=C2)C=CC=C3"
+    ]
+  },
+  "C4H9O": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "NHCbz": {
+    "smiles": [
+      "*NC(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "OC2H5": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "OCH2CH2CH2CH3": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "iPrO": {
+    "smiles": [
+      "*OC(C)C"
+    ]
+  },
+  "(CH2)3SO(CH2)3CF2CF3": {
+    "smiles": [
+      "*CCCS(=O)CCCC(F)(F)C(F)(F)F"
+    ]
+  },
+  "PO3H2": {
+    "smiles": [
+      "*P(=O)(O)O"
+    ]
+  },
+  "Boc": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "NHCHO": {
+    "smiles": [
+      "*NC=O"
+    ]
+  },
+  "OTIPS": {
+    "smiles": [
+      "*O[Si](C(C)C)(C(C)C)C(C)C"
+    ]
+  },
+  "SO2N3": {
+    "smiles": [
+      "*S(=O)(=O)N=[N+]=[N-]"
+    ]
+  },
+  "CNHSO2CH3": {
+    "smiles": [
+      "*CNS(=O)(=O)C"
+    ]
+  },
+  "HO2C": {
+    "smiles": [
+      "*C(=O)O"
+    ]
+  },
+  "CO2Me": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "n-C3H7": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "CH2CH2CH2SCH3": {
+    "smiles": [
+      "*CCCSC"
+    ]
+  },
+  "CFH2": {
+    "smiles": [
+      "*CF"
+    ]
+  },
+  "OCCl3": {
+    "smiles": [
+      "*OC(Cl)(Cl)Cl"
+    ]
+  },
+  "t-Bu": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "Bn2N": {
+    "smiles": [
+      "*N(CC1=CC=CC=C1)CC1=CC=CC=C1"
+    ]
+  },
+  "COCH2": {
+    "smiles": [
+      "*CC(*)=O"
+    ]
+  },
+  "BOC2N": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "i-Pr": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "PCy2": {
+    "smiles": [
+      "*P(C1CCCCC1)C1CCCCC1"
+    ]
+  },
+  "CO2Bn": {
+    "smiles": [
+      "*C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "NBOC2": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "COSH": {
+    "smiles": [
+      "*C(=O)S"
+    ]
+  },
+  "(HO)2B": {
+    "smiles": [
+      "*B(O)O"
+    ]
+  },
+  "CH3CONH": {
+    "smiles": [
+      "*NC(C)=O"
+    ]
+  },
+  "(H3C)3SiO": {
+    "smiles": [
+      "*O[Si](C)(C)C"
+    ]
+  },
+  "H5C2O2C": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "CF2": {
+    "smiles": [
+      "*C(F)(F)*"
+    ]
+  },
+  "N+O-": {
+    "smiles": [
+      "*[NH2+][O-]"
+    ]
+  },
+  "F3CN": {
+    "smiles": [
+      "*N(*)C(F)(F)F"
+    ]
+  },
+  "NPMB2": {
+    "smiles": [
+      "*N(CC1=CC=C(OC)C=C1)CC2=CC=C(OC)C=C2"
+    ]
+  },
+  "C12H25": {
+    "smiles": [
+      "*CCCCCCCCCCCC"
+    ]
+  },
+  "CH2OCOCH2CH2CF3": {
+    "smiles": [
+      "*COC(=O)CCC(F)(F)F"
+    ]
+  },
+  "(CH2)8CH3": {
+    "smiles": [
+      "*CCCCCCCCC"
+    ]
+  },
+  "H5C6": {
+    "smiles": [
+      "*C1=CC=CC=C1"
+    ]
+  },
+  "OP": {
+    "smiles": [
+      "*OP"
+    ]
+  },
+  "-O2C": {
+    "smiles": [
+      "*C(=O)[O-]"
+    ]
+  },
+  "(NH)": {
+    "smiles": [
+      "*N"
+    ]
+  },
+  "t-C4H9": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "NCS": {
+    "smiles": [
+      "*N=C=S"
+    ]
+  },
+  "CH2(CH2)6CH2": {
+    "smiles": [
+      "*C(*)CCCCCCC"
+    ]
+  },
+  "Bz": {
+    "smiles": [
+      "*C(=O)C1=CC=CC=C1"
+    ]
+  },
+  "BzHN": {
+    "smiles": [
+      "*NC(=O)C1=CC=CC=C1"
+    ]
+  },
+  "C15H31": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCC"
+    ]
+  },
+  "CO2CysPr": {
+    "smiles": [
+      "*C(=O)ON[C@@H](CS)C(=O)CCC"
+    ]
+  },
+  "C4H9": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "OK": {
+    "smiles": [
+      "*O[K]"
+    ]
+  },
+  "OCH2CH2OPOCH2CH2N+(CH3)3": {
+    "smiles": [
+      "*OCCOP([*-])OCC[N+](C)(C)C"
+    ]
+  },
+  "NC": {
+    "smiles": [
+      "*C#N"
+    ]
+  },
+  "OEt": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "t-BuO": {
+    "smiles": [
+      "*OC(C)(C)C"
+    ]
+  },
+  "O(CH2)4O": {
+    "smiles": [
+      "*OCCCCO*"
+    ]
+  },
+  "N(Boc)2": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "OBoc": {
+    "smiles": [
+      "*OC(=O)OC(C)(C)C"
+    ]
+  },
+  "(CH2)15": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCC*"
+    ]
+  },
+  "NHAc": {
+    "smiles": [
+      "*NC(C)=O"
+    ]
+  },
+  "OCOO(CH2)4O2CCH": {
+    "smiles": [
+      "*OC(=O)OCCCCOOCC"
+    ]
+  },
+  "OBn": {
+    "smiles": [
+      "*OCC1=CC=CC=C1"
+    ]
+  },
+  "Sn(CH3)3": {
+    "smiles": [
+      "*[Sn](C)(C)C"
+    ]
+  },
+  "CsO": {
+    "smiles": [
+      "*[Cs]O"
+    ]
+  },
+  "NHSO2BU": {
+    "smiles": [
+      "*NS(=O)(=O)CCCC"
+    ]
+  },
+  "OCOCH3": {
+    "smiles": [
+      "*OC(=O)C"
+    ]
+  },
+  "AcS": {
+    "smiles": [
+      "*SC(C)=O"
+    ]
+  },
+  "H35C17": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "O2S": {
+    "smiles": [
+      "*S(*)(=O)=O"
+    ]
+  },
+  "CO2tBu": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "Ac": {
+    "smiles": [
+      "*C(=O)C"
+    ]
+  },
+  "SAc": {
+    "smiles": [
+      "*SC(=O)C"
+    ]
+  },
+  "(CH2)2NH": {
+    "smiles": [
+      "*CCN*"
+    ]
+  },
+  "F2HC": {
+    "smiles": [
+      "*C(F)F"
+    ]
+  },
+  "OTf": {
+    "smiles": [
+      "*OS(=O)(=O)C(F)(F)F"
+    ]
+  },
+  "NaO": {
+    "smiles": [
+      "*O[Na]"
+    ]
+  },
+  "(OH)2B": {
+    "smiles": [
+      "*B(O)O"
+    ]
+  },
+  "TBDPSO": {
+    "smiles": [
+      "*O[Si](C(C)(C)C)(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "NBn2": {
+    "smiles": [
+      "*N(CC1=CC=CC=C1)CC1=CC=CC=C1"
+    ]
+  },
+  "NBoc": {
+    "smiles": [
+      "*N(*)C(=O)OC(C)(C)C"
+    ]
+  },
+  "(BOC)2N": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "N(Me)SO2Me": {
+    "smiles": [
+      "*N(C)S(=O)(=O)C"
+    ]
+  },
+  "nBu": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "OCH2OC2H5": {
+    "smiles": [
+      "*OCOCC"
+    ]
+  },
+  "CBz": {
+    "smiles": [
+      "*C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "MeOH2C": {
+    "smiles": [
+      "*COC"
+    ]
+  },
+  "HOOC": {
+    "smiles": [
+      "*C(=O)O"
+    ]
+  },
+  "H7C3S": {
+    "smiles": [
+      "*SCCC"
+    ]
+  },
+  "SnBu3": {
+    "smiles": [
+      "*[Sn](CCCC)(CCCC)CCCC"
+    ]
+  },
+  "CH2C": {
+    "smiles": [
+      "*CC(*)(*)*"
+    ]
+  },
+  "C3H6SO3K": {
+    "smiles": [
+      "*CCCS(=O)(=O)O[K]"
+    ]
+  },
+  "H2FCO": {
+    "smiles": [
+      "*OCF"
+    ]
+  },
+  "SO2CF3": {
+    "smiles": [
+      "*S(=O)(=O)C(F)(F)F"
+    ]
+  },
+  "(CH2)3SO3H": {
+    "smiles": [
+      "*CCCS(=O)(=O)O"
+    ]
+  },
+  "CCl3": {
+    "smiles": [
+      "*C(Cl)(Cl)Cl"
+    ]
+  },
+  "P(tBu)2": {
+    "smiles": [
+      "*P(C(C)(C)C)C(C)(C)C"
+    ]
+  },
+  "NHH2N": {
+    "smiles": [
+      "*NN"
+    ]
+  },
+  "OCFH2": {
+    "smiles": [
+      "*OCF"
+    ]
+  },
+  "OTs": {
+    "smiles": [
+      "*OS(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "(CH2)3CH3": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "CHCH2CH2CH2": {
+    "smiles": [
+      "*CCCC(*)*"
+    ]
+  },
+  "CH2CH2CH2Si(OC2H5)3": {
+    "smiles": [
+      "*CCC[Si](OCC)(OCC)OCC"
+    ]
+  },
+  "BuS": {
+    "smiles": [
+      "*SCCCC"
+    ]
+  },
+  "OCH2CH2OCH3": {
+    "smiles": [
+      "*OCCOC"
+    ]
+  },
+  "O+Na-": {
+    "smiles": [
+      "*[O+]=[Na-]"
+    ]
+  },
+  "BF2": {
+    "smiles": [
+      "*B(F)F"
+    ]
+  },
+  "OCO": {
+    "smiles": [
+      "*OC(=O)*"
+    ]
+  },
+  "CF3": {
+    "smiles": [
+      "*C(F)(F)F"
+    ]
+  },
+  "(CH2)2": {
+    "smiles": [
+      "*CC*"
+    ]
+  },
+  "N(SO2CH3)2": {
+    "smiles": [
+      "*N(S(=O)(=O)C)S(=O)(=O)C"
+    ]
+  },
+  "(H2C)4": {
+    "smiles": [
+      "*CCCC*"
+    ]
+  },
+  "TsO": {
+    "smiles": [
+      "*OS(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "MeOOC": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "KO": {
+    "smiles": [
+      "*[K]O"
+    ]
+  },
+  "NFmoc": {
+    "smiles": [
+      "*N(*)CC(=O)OCC1C3C(C2C1C=CC=C2)C=CC=C3"
+    ]
+  },
+  "NHCO2Me": {
+    "smiles": [
+      "*NC(=O)OC"
+    ]
+  },
+  "C3H7": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "TosO": {
+    "smiles": [
+      "*OS(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "H37C18": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "CD3": {
+    "smiles": [
+      "*C([2H])([2H])[2H]"
+    ]
+  },
+  "-O3SO": {
+    "smiles": [
+      "*OS(=O)(=O)[O-]"
+    ]
+  },
+  "OtBu": {
+    "smiles": [
+      "*OC(C)(C)C"
+    ]
+  },
+  "Pr": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "PrNH": {
+    "smiles": [
+      "*NCCC"
+    ]
+  },
+  "MeO2C": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "NHNHCOCH3": {
+    "smiles": [
+      "*NNC(=O)C"
+    ]
+  },
+  "H19C9": {
+    "smiles": [
+      "*CCCCCCCCC"
+    ]
+  },
+  "BnO2C": {
+    "smiles": [
+      "*C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "OPO3H-": {
+    "smiles": [
+      "*OP(=O)([O-])O"
+    ]
+  },
+  "SCF3": {
+    "smiles": [
+      "*SC(F)(F)F"
+    ]
+  },
+  "MeO2S": {
+    "smiles": [
+      "*S(=O)(=O)C"
+    ]
+  },
+  "F2HCO": {
+    "smiles": [
+      "*OC(F)F"
+    ]
+  },
+  "ZrCl2": {
+    "smiles": [
+      "*[Zr](*)(Cl)Cl"
+    ]
+  },
+  "CH3O": {
+    "smiles": [
+      "*OC"
+    ]
+  },
+  "Mes": {
+    "smiles": [
+      "*C1=C(C)C=C(C)C=C1C"
+    ]
+  },
+  "Ph2N": {
+    "smiles": [
+      "*N(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "Cu(OAc)2": {
+    "smiles": [
+      "[*+][Cu-2]([*+])(OC(C)=O)OC(C)=O"
+    ]
+  },
+  "F3CO2S": {
+    "smiles": [
+      "*S(=O)(=O)C(F)(F)F"
+    ]
+  },
+  "OCH3": {
+    "smiles": [
+      "*OC"
+    ]
+  },
+  "H3C(H2C)3": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "PH3C": {
+    "smiles": [
+      "*CP"
+    ]
+  },
+  "C10H21": {
+    "smiles": [
+      "*CCCCCCCCCC"
+    ]
+  },
+  "OCF2CF3": {
+    "smiles": [
+      "*OC(F)(F)C(F)(F)F"
+    ]
+  },
+  "PhO2S": {
+    "smiles": [
+      "*S(=O)(=O)C1=CC=CC=C1"
+    ]
+  },
+  "F5C2O": {
+    "smiles": [
+      "*OC(F)(F)C(F)(F)F"
+    ]
+  },
+  "(CH2)14": {
+    "smiles": [
+      "*CCCCCCCCCCCCCC*"
+    ]
+  },
+  "P(O)Ph2": {
+    "smiles": [
+      "*[P](=O)(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "SO3K": {
+    "smiles": [
+      "*S(=O)(=O)OK"
+    ]
+  },
+  "NHOH": {
+    "smiles": [
+      "*NO"
+    ]
+  },
+  "OCH2CH2F": {
+    "smiles": [
+      "*OCCF"
+    ]
+  },
+  "ClSO2": {
+    "smiles": [
+      "*S(=O)(=O)Cl"
+    ]
+  },
+  "(CH2)11CH3": {
+    "smiles": [
+      "*CCCCCCCCCCCC"
+    ]
+  },
+  "K+-S": {
+    "smiles": [
+      "*[K-2]=S"
+    ]
+  },
+  "COO": {
+    "smiles": [
+      "*C(=O)O*"
+    ]
+  },
+  "(CH3)2N": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "OCOMe": {
+    "smiles": [
+      "*OC(=O)C"
+    ]
+  },
+  "N(OH)CH3": {
+    "smiles": [
+      "*N(O)C"
+    ]
+  },
+  "C17H35": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "C(CH3)3": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "O(CH2)6O2CCH": {
+    "smiles": [
+      "*OCCCCCCOOCC"
+    ]
+  },
+  "SO2(CH2)4SO3NH4": {
+    "smiles": [
+      "*S(=O)(=O)CCCCS(=O)(=O)ON"
+    ]
+  },
+  "CO2H": {
+    "smiles": [
+      "*C(=O)O"
+    ]
+  },
+  "H27C13": {
+    "smiles": [
+      "*CCCCCCCCCCCCC"
+    ]
+  },
+  "SO2Et": {
+    "smiles": [
+      "*S(=O)(=O)CC"
+    ]
+  },
+  "SBn": {
+    "smiles": [
+      "*SCC1=CC=CC=C1"
+    ]
+  },
+  "PMBHN": {
+    "smiles": [
+      "*NCC1=CC=C(OC)C=C1"
+    ]
+  },
+  "H2FC": {
+    "smiles": [
+      "*CF"
+    ]
+  },
+  "CH3S": {
+    "smiles": [
+      "*SC"
+    ]
+  },
+  "(CH2)4": {
+    "smiles": [
+      "*CCCC*"
+    ]
+  },
+  "OC": {
+    "smiles": [
+      "*C(*)=O"
+    ]
+  },
+  "H4NOOC": {
+    "smiles": [
+      "*C(=O)ON"
+    ]
+  },
+  "OCH2CF3": {
+    "smiles": [
+      "*OCC(F)(F)F"
+    ]
+  },
+  "(CH2)5CH3": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "t-BuO2C": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "C14H29": {
+    "smiles": [
+      "*CCCCCCCCCCCCCC"
+    ]
+  },
+  "H25C12": {
+    "smiles": [
+      "*CCCCCCCCCCCC"
+    ]
+  },
+  "H9C4O": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "(CH2)4O": {
+    "smiles": [
+      "*CCCCO*"
+    ]
+  },
+  "ONa": {
+    "smiles": [
+      "*O[Na]"
+    ]
+  },
+  "C2H4": {
+    "smiles": [
+      "*CC*"
+    ]
+  },
+  "N(CH2CH2CH2CH3)2": {
+    "smiles": [
+      "*N(CCCC)CCCC"
+    ]
+  },
+  "COEt": {
+    "smiles": [
+      "*C(=O)CC"
+    ]
+  },
+  "BOCO": {
+    "smiles": [
+      "*OC(=O)OC(C)(C)C"
+    ]
+  },
+  "Ot-Bu": {
+    "smiles": [
+      "*OC(C)(C)C"
+    ]
+  },
+  "CH2CH2CH2CH2": {
+    "smiles": [
+      "*CCCC*"
+    ]
+  },
+  "SO3Li": {
+    "smiles": [
+      "*S(=O)(=O)O[Li]"
+    ]
+  },
+  "CHCHCH2CH2": {
+    "smiles": [
+      "*C(C)CC"
+    ]
+  },
+  "NBs": {
+    "smiles": [
+      "*N(*)S(=O)(=O)C1=CC=C(Br)C=C1"
+    ]
+  },
+  "CH2CH2CH2NH2": {
+    "smiles": [
+      "*CCCN"
+    ]
+  },
+  "tBuO2C": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "H3C(H2C)9": {
+    "smiles": [
+      "*CCCCCCCCCC"
+    ]
+  },
+  "MeNH": {
+    "smiles": [
+      "*NC"
+    ]
+  },
+  "(CH2)3": {
+    "smiles": [
+      "*CCC*"
+    ]
+  },
+  "OC2F5": {
+    "smiles": [
+      "*OC(F)(F)C(F)(F)F"
+    ]
+  },
+  "OCH2CH(C2H5)(CH2)3CH3": {
+    "smiles": [
+      "*OCC(CC)CCCC"
+    ]
+  },
+  "COOt-Bu": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "COOEt": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "OMEM": {
+    "smiles": [
+      "*OCOCCOC"
+    ]
+  },
+  "CH3(CH2)4CH2": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "H33C16": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCC"
+    ]
+  },
+  "D3C": {
+    "smiles": [
+      "*C([2H])([2H])[2H]"
+    ]
+  },
+  "TBDPS": {
+    "smiles": [
+      "*[Si](C(C)(C)C)(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "C2H5": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "OMs": {
+    "smiles": [
+      "*OS(=O)(=O)C"
+    ]
+  },
+  "HO3S": {
+    "smiles": [
+      "*S(=O)(=O)O"
+    ]
+  },
+  "ICH2": {
+    "smiles": [
+      "*[IH]C"
+    ]
+  },
+  "H29C14": {
+    "smiles": [
+      "*CCCCCCCCCCCCCC"
+    ]
+  },
+  "iBu": {
+    "smiles": [
+      "*CC(C)C"
+    ]
+  },
+  "(CH2)5": {
+    "smiles": [
+      "*CCCCC*"
+    ]
+  },
+  "CH2(CF2)4CH2": {
+    "smiles": [
+      "*CC(F)(F)C(F)(F)C(F)(F)C(F)(F)C*"
+    ]
+  },
+  "SO2NH2": {
+    "smiles": [
+      "*S(=O)(=O)N"
+    ]
+  },
+  "(C2H4O)13": {
+    "smiles": [
+      "*CCOCCOCCO*"
+    ]
+  },
+  "(CH3)2CHCH2OOC": {
+    "smiles": [
+      "*CC(C)COC=O"
+    ]
+  },
+  "C16H33": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCC"
+    ]
+  },
+  "ONH2": {
+    "smiles": [
+      "*ON"
+    ]
+  },
+  "CF2Cl": {
+    "smiles": [
+      "*C(F)(F)Cl"
+    ]
+  },
+  "CH2Ph": {
+    "smiles": [
+      "*CC1=CC=CC=C1"
+    ]
+  },
+  "COCH": {
+    "smiles": [
+      "*C(=O)C(*)*"
+    ]
+  },
+  "TBS": {
+    "smiles": [
+      "*[Si](C)(C)C(C)(C)C"
+    ]
+  },
+  "H15C7": {
+    "smiles": [
+      "*CCCCCCC"
+    ]
+  },
+  "HONH": {
+    "smiles": [
+      "*NO"
+    ]
+  },
+  "(C3H6O)": {
+    "smiles": [
+      "*CCCO*"
+    ]
+  },
+  "(CH3CH2CH2CH2)2N": {
+    "smiles": [
+      "*N(CCCC)CCCC"
+    ]
+  },
+  "F2B": {
+    "smiles": [
+      "*B(F)F"
+    ]
+  },
+  "CF2CF2H": {
+    "smiles": [
+      "*C(F)(F)C(F)F"
+    ]
+  },
+  "CH3CH2O": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "CON": {
+    "smiles": [
+      "**(*)C(*)=O"
+    ]
+  },
+  "Ph3C": {
+    "smiles": [
+      "*C(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3"
+    ]
+  },
+  "C(O)": {
+    "smiles": [
+      "*C(=O)*"
+    ]
+  },
+  "NH(CH2)6": {
+    "smiles": [
+      "*CCCCCCN*"
+    ]
+  },
+  "NHSO2NH": {
+    "smiles": [
+      "*NS(=O)(=O)N*"
+    ]
+  },
+  "HF2C": {
+    "smiles": [
+      "*C(F)F"
+    ]
+  },
+  "N(CH3)2": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "HOHNO2S": {
+    "smiles": [
+      "*S(=O)(=O)NO"
+    ]
+  },
+  "NPh": {
+    "smiles": [
+      "*N(*)C1=CC=CC=C1"
+    ]
+  },
+  "COBr": {
+    "smiles": [
+      "*C(=O)Br"
+    ]
+  },
+  "(Me)2N": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "OPh": {
+    "smiles": [
+      "*OC1=CC=CC=C1"
+    ]
+  },
+  "SO2Cl": {
+    "smiles": [
+      "*S(=O)(=O)[Cl]"
+    ]
+  },
+  "NN2": {
+    "smiles": [
+      "*N=NN"
+    ]
+  },
+  "F3CH2CO": {
+    "smiles": [
+      "*OCC(F)(F)F"
+    ]
+  },
+  "COT": {
+    "smiles": [
+      "*C([3H])=O"
+    ]
+  },
+  "OCF2H": {
+    "smiles": [
+      "*OC(F)F"
+    ]
+  },
+  "Ph2P": {
+    "smiles": [
+      "*P(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "(CH2)20": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCCC*"
+    ]
+  },
+  "O(CH2)4": {
+    "smiles": [
+      "*OCCCC*"
+    ]
+  },
+  "Me": {
+    "smiles": [
+      "*C"
+    ]
+  },
+  "OBu": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "H2NSO2": {
+    "smiles": [
+      "*S(=O)(=O)N"
+    ]
+  },
+  "(CH2)10": {
+    "smiles": [
+      "*CCCCCCCCCC*"
+    ]
+  },
+  "H3CO": {
+    "smiles": [
+      "*OC"
+    ]
+  },
+  "SnMe3": {
+    "smiles": [
+      "*[Sn](C)(C)C"
+    ]
+  },
+  "CH2CH2CH3": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "NHN": {
+    "smiles": [
+      "*NN"
+    ]
+  },
+  "C6H13": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "SO": {
+    "smiles": [
+      "*OS*"
+    ]
+  },
+  "Ph": {
+    "smiles": [
+      "*C1=CC=CC=C1"
+    ]
+  },
+  "OCH2CH3": {
+    "smiles": [
+      "*OCC"
+    ]
+  },
+  "BnNH": {
+    "smiles": [
+      "*NCC1=CC=CC=C1"
+    ]
+  },
+  "COCH2OCH3": {
+    "smiles": [
+      "*C(=O)COC"
+    ]
+  },
+  "COCl": {
+    "smiles": [
+      "*C(=O)Cl"
+    ]
+  },
+  "CH2OMe": {
+    "smiles": [
+      "*COC"
+    ]
+  },
+  "CH2CH2CH2CH2CH2CH3": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "BOC": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "CH2CH2CH2OCH2CH": {
+    "smiles": [
+      "*CCCOCC1**1"
+    ]
+  },
+  "C6H5": {
+    "smiles": [
+      "*C1=CC=CC=C1"
+    ]
+  },
+  "O(CH2)3": {
+    "smiles": [
+      "*OCCC*"
+    ]
+  },
+  "NHSO2Et": {
+    "smiles": [
+      "*NS(=O)(=O)CC"
+    ]
+  },
+  "HOHN": {
+    "smiles": [
+      "*NO"
+    ]
+  },
+  "CH3(CH2)19": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "OCH2": {
+    "smiles": [
+      "*OC*"
+    ]
+  },
+  "SPh": {
+    "smiles": [
+      "*SC1=CC=CC=C1"
+    ]
+  },
+  "NHSO2Me": {
+    "smiles": [
+      "*NS(=O)(=O)C"
+    ]
+  },
+  "THPO": {
+    "smiles": [
+      "*OC1CCCCO1"
+    ]
+  },
+  "MgCl": {
+    "smiles": [
+      "*[Mg]Cl"
+    ]
+  },
+  "NHCOCH": {
+    "smiles": [
+      "*NC(=O)*(*)*"
+    ]
+  },
+  "O(CH2)3CH3": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "Me3Si": {
+    "smiles": [
+      "*[Si](C)(C)C"
+    ]
+  },
+  "(H3C)2N": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "Oi-Bu": {
+    "smiles": [
+      "*OCC(C)C"
+    ]
+  },
+  "H21C10": {
+    "smiles": [
+      "*CCCCCCCCCC"
+    ]
+  },
+  "CO2CH2CN": {
+    "smiles": [
+      "*C(=O)OCC#N"
+    ]
+  },
+  "SCH2CN": {
+    "smiles": [
+      "*SCC#N"
+    ]
+  },
+  "OC3H7": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "H41C20": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "C13H27": {
+    "smiles": [
+      "*CCCCCCCCCCCCC"
+    ]
+  },
+  "NHCH3": {
+    "smiles": [
+      "*NC"
+    ]
+  },
+  "OBOC": {
+    "smiles": [
+      "*OC(=O)OC(C)(C)C"
+    ]
+  },
+  "H2NCH2": {
+    "smiles": [
+      "*CN"
+    ]
+  },
+  "SO2CH2CH2CH2SO2NH": {
+    "smiles": [
+      "*NS(=O)(=O)CCCS(*)(=O)=O"
+    ]
+  },
+  "NMe2": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "OCH2F": {
+    "smiles": [
+      "*OCF"
+    ]
+  },
+  "BuO2C": {
+    "smiles": [
+      "*C(=O)OCCCC"
+    ]
+  },
+  "NPMB": {
+    "smiles": [
+      "*N(*)CC1=CC=C(OC)C=C1"
+    ]
+  },
+  "CO3": {
+    "smiles": [
+      "*C(=O)OO"
+    ]
+  },
+  "PhHN": {
+    "smiles": [
+      "*NC1=CC=CC=C1"
+    ]
+  },
+  "CO2Ph": {
+    "smiles": [
+      "*C(=O)OC1=CC=CC=C1"
+    ]
+  },
+  "NBz": {
+    "smiles": [
+      "*N(*)C(=O)C1=CC=CC=C1"
+    ]
+  },
+  "PrS": {
+    "smiles": [
+      "*SCCC"
+    ]
+  },
+  "-O3S": {
+    "smiles": [
+      "*S(=O)(=O)[O-]"
+    ]
+  },
+  "MeO2SO": {
+    "smiles": [
+      "*OS(=O)(=O)C"
+    ]
+  },
+  "(N)": {
+    "smiles": [
+      "*N*"
+    ]
+  },
+  "EtO2C": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "On-Bu": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "(CH3CH2)2N": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "BuO": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "OSO2Ph": {
+    "smiles": [
+      "*OS(=O)(=O)C1=CC=CC=C1"
+    ]
+  },
+  "N(PMB)2": {
+    "smiles": [
+      "*N(CC1=CC=C(OC)C=C1)CC2=CC=C(OC)C=C2"
+    ]
+  },
+  "(CH2)17": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCC*"
+    ]
+  },
+  "SO2NHBoc": {
+    "smiles": [
+      "*S(=O)(=O)NC(=O)OC(C)(C)C"
+    ]
+  },
+  "COO(CH2)4": {
+    "smiles": [
+      "*CCCCOC(*)=O"
+    ]
+  },
+  "Trt": {
+    "smiles": [
+      "*C(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3"
+    ]
+  },
+  "COMe": {
+    "smiles": [
+      "*C(=O)C"
+    ]
+  },
+  "(O)2S": {
+    "smiles": [
+      "*S(=O)(=O)*"
+    ]
+  },
+  "CH2CHCH3": {
+    "smiles": [
+      "*CC(*)C"
+    ]
+  },
+  "OPMB": {
+    "smiles": [
+      "*OCC1=CC=C(OC)C=C1"
+    ]
+  },
+  "C11H23": {
+    "smiles": [
+      "*CCCCCCCCCCC"
+    ]
+  },
+  "SO2CH2CH2CH2SO2NHCH2CH2CH2O": {
+    "smiles": [
+      "*OCCCNS(=O)(=O)CCCS(*)(=O)=O"
+    ]
+  },
+  "CF3CH2": {
+    "smiles": [
+      "*CC(F)(F)F"
+    ]
+  },
+  "nBuO": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "NHBOC": {
+    "smiles": [
+      "*NC(=O)OC(C)(C)C"
+    ]
+  },
+  "OSO2CH3": {
+    "smiles": [
+      "*OS(=O)(=O)C"
+    ]
+  },
+  "NHNH2": {
+    "smiles": [
+      "*NN"
+    ]
+  },
+  "NSEM": {
+    "smiles": [
+      "*N(*)COCC[Si](C)(C)C"
+    ]
+  },
+  "CF3O": {
+    "smiles": [
+      "*OC(F)(F)F"
+    ]
+  },
+  "(H3CO)3Si": {
+    "smiles": [
+      "*[Si](OC)(OC)OC"
+    ]
+  },
+  "n-PrO": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "COBu": {
+    "smiles": [
+      "*C(=O)CCCC"
+    ]
+  },
+  "NHSO2Ph": {
+    "smiles": [
+      "*NS(=O)(=O)C1=CC=CC=C1"
+    ]
+  },
+  "CF2CF2CF2CF2H": {
+    "smiles": [
+      "*C(F)(F)C(F)(F)C(F)(F)C(F)F"
+    ]
+  },
+  "COCOOCH2CH3": {
+    "smiles": [
+      "*C(=O)C(=O)OCC"
+    ]
+  },
+  "Si(i-Pr)3": {
+    "smiles": [
+      "*[Si](C(C)C)(C(C)C)C(C)C"
+    ]
+  },
+  "MeS": {
+    "smiles": [
+      "*SC"
+    ]
+  },
+  "SO3H": {
+    "smiles": [
+      "*S(=O)(=O)O"
+    ]
+  },
+  "CH2OCOCH3": {
+    "smiles": [
+      "*COC(C)=O"
+    ]
+  },
+  "OC8H17": {
+    "smiles": [
+      "*OCCCCCCCC"
+    ]
+  },
+  "OCN": {
+    "smiles": [
+      "*OC#N"
+    ]
+  },
+  "OCH2CHOHCH2NH2": {
+    "smiles": [
+      "*OCC(O)CN"
+    ]
+  },
+  "SO2NHCH3": {
+    "smiles": [
+      "*S(=O)(=O)NC"
+    ]
+  },
+  "BocO": {
+    "smiles": [
+      "*OC(=O)OC(C)(C)C"
+    ]
+  },
+  "NHCOCF3": {
+    "smiles": [
+      "*NC(=O)C(F)(F)F"
+    ]
+  },
+  "OCH2CO2H": {
+    "smiles": [
+      "*OCC(=O)O"
+    ]
+  },
+  "PhS": {
+    "smiles": [
+      "*SC1=CC=CC=C1"
+    ]
+  },
+  "CH(CH3)2": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "NHCOCH3": {
+    "smiles": [
+      "*NC(=O)C"
+    ]
+  },
+  "CO2t-Bu": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "(CH2)9": {
+    "smiles": [
+      "*CCCCCCCCC*"
+    ]
+  },
+  "NBoc2": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "NHEt": {
+    "smiles": [
+      "*NCC"
+    ]
+  },
+  "CbzHN": {
+    "smiles": [
+      "*NC(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "CH2CH2": {
+    "smiles": [
+      "*CC*"
+    ]
+  },
+  "SO2NHOH": {
+    "smiles": [
+      "*S(=O)(=O)NO"
+    ]
+  },
+  "PPh2": {
+    "smiles": [
+      "*P(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "OTos": {
+    "smiles": [
+      "*OS(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "iBuO": {
+    "smiles": [
+      "*OCC(C)C"
+    ]
+  },
+  "CH2CHMe2": {
+    "smiles": [
+      "*CC(C)C"
+    ]
+  },
+  "NHTs": {
+    "smiles": [
+      "*NS(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "NH(CH2)2N": {
+    "smiles": [
+      "*NCCN(*)*"
+    ]
+  },
+  "C4H9S": {
+    "smiles": [
+      "*SCCCC"
+    ]
+  },
+  "(CH2)19": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCC*"
+    ]
+  },
+  "O(CH2)3O": {
+    "smiles": [
+      "*OCCCO*"
+    ]
+  },
+  "COOMe": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "CH2CH(C2H5)(CH2)3CH3": {
+    "smiles": [
+      "*CC(CC)CCCC"
+    ]
+  },
+  "(OPh)2": {
+    "smiles": [
+      "*O(OC1=CC=CC=C1)C1=CC=CC=C1"
+    ]
+  },
+  "TeF5": {
+    "smiles": [
+      "*[Te](F)(F)(F)(F)F"
+    ]
+  },
+  "(CH2)13": {
+    "smiles": [
+      "*CCCCCCCCCCCCC*"
+    ]
+  },
+  "Tos": {
+    "smiles": [
+      "*S(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "BnS": {
+    "smiles": [
+      "*SCC1=CC=CC=C1"
+    ]
+  },
+  "OC6H13": {
+    "smiles": [
+      "*OCCCCCC"
+    ]
+  },
+  "SNa": {
+    "smiles": [
+      "*S[Na]"
+    ]
+  },
+  "NHCO": {
+    "smiles": [
+      "*NCO*"
+    ]
+  },
+  "SO2": {
+    "smiles": [
+      "*S(*)(=O)=O"
+    ]
+  },
+  "OLi": {
+    "smiles": [
+      "*O[Li]"
+    ]
+  },
+  "(CH2)16CH3": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "OMOM": {
+    "smiles": [
+      "*OCOC"
+    ]
+  },
+  "H5C2OOC": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "CH2CH2CH2CH": {
+    "smiles": [
+      "*CCCC(*)*"
+    ]
+  },
+  "OCH2CO2Et": {
+    "smiles": [
+      "*OCC(=O)OCC"
+    ]
+  },
+  "H2NCH2CH2CH2": {
+    "smiles": [
+      "*CCCN"
+    ]
+  },
+  "CH2CO2H": {
+    "smiles": [
+      "*CC(=O)O"
+    ]
+  },
+  "CONH": {
+    "smiles": [
+      "*C(=O)N*"
+    ]
+  },
+  "TBDMS": {
+    "smiles": [
+      "*[Si](C)(C)C(C)(C)C"
+    ]
+  },
+  "(C2H5)2N": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "H2NC2H4NHC3H6Si(OCH3)2": {
+    "smiles": [
+      "*[Si](CCCNCCN)(OC)OC"
+    ]
+  },
+  "CH3CH2CH2CH2OPOCH2": {
+    "smiles": [
+      "*COP(*)OCCCC"
+    ]
+  },
+  "OCH2CH2OH": {
+    "smiles": [
+      "*OCCO"
+    ]
+  },
+  "(Et)2N": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "NCH3COCH3": {
+    "smiles": [
+      "*N(C)C(C)=O"
+    ]
+  },
+  "n-Pr": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "CH2COOC2H5": {
+    "smiles": [
+      "*CC(=O)OCC"
+    ]
+  },
+  "NHSO2NH2": {
+    "smiles": [
+      "*NS(=O)(=O)N"
+    ]
+  },
+  "Bu3Sn": {
+    "smiles": [
+      "*[Sn](CCCC)(CCCC)CCCC"
+    ]
+  },
+  "C3H2": {
+    "smiles": [
+      "**#CC"
+    ]
+  },
+  "N(Me)2": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "ZnBr": {
+    "smiles": [
+      "*[Zn]Br"
+    ]
+  },
+  "(H3C)HNO2S": {
+    "smiles": [
+      "*S(=O)(=O)NC"
+    ]
+  },
+  "SO2Ph": {
+    "smiles": [
+      "*S(=O)(=O)C1=CC=CC=C1"
+    ]
+  },
+  "CO2-": {
+    "smiles": [
+      "*C(=O)[O-]"
+    ]
+  },
+  "Piv": {
+    "smiles": [
+      "*C(=O)C(C)(C)C"
+    ]
+  },
+  "OMe": {
+    "smiles": [
+      "*OC"
+    ]
+  },
+  "(H4NO)2": {
+    "smiles": [
+      "*NOON"
+    ]
+  },
+  "SiMe2": {
+    "smiles": [
+      "*[Si](*)(C)C"
+    ]
+  },
+  "(H2C)": {
+    "smiles": [
+      "*C"
+    ]
+  },
+  "F5S": {
+    "smiles": [
+      "*S(F)(F)(F)(F)F"
+    ]
+  },
+  "ClCH2CH2CH2": {
+    "smiles": [
+      "*CCCCl"
+    ]
+  },
+  "nC4H9": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "P(OEt)2": {
+    "smiles": [
+      "*P(OCC)OCC"
+    ]
+  },
+  "Bn": {
+    "smiles": [
+      "*CC1=CC=CC=C1"
+    ]
+  },
+  "CH2SH": {
+    "smiles": [
+      "*CS"
+    ]
+  },
+  "Me2NO2S": {
+    "smiles": [
+      "*S(=O)(=O)N(C)C"
+    ]
+  },
+  "OPr": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "MOM": {
+    "smiles": [
+      "*COC"
+    ]
+  },
+  "CF": {
+    "smiles": [
+      "*CF"
+    ]
+  },
+  "CONMe2": {
+    "smiles": [
+      "*C(=O)N(C)C"
+    ]
+  },
+  "Tr": {
+    "smiles": [
+      "*C(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3"
+    ]
+  },
+  "CO2C(CH3)3": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "NTrt": {
+    "smiles": [
+      "*N(*)C(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3"
+    ]
+  },
+  "COOH": {
+    "smiles": [
+      "*C(=O)O"
+    ]
+  },
+  "MgBr": {
+    "smiles": [
+      "*[Mg]Br"
+    ]
+  },
+  "NSO2Ph": {
+    "smiles": [
+      "*N(*)S(=O)(=O)C1=CC=CC=C1"
+    ]
+  },
+  "H3C": {
+    "smiles": [
+      "*C"
+    ]
+  },
+  "COONa": {
+    "smiles": [
+      "*C(=O)O[Na]"
+    ]
+  },
+  "CH2CH2C(O)OCH2CH3": {
+    "smiles": [
+      "*CCC(=O)OCC"
+    ]
+  },
+  "BuNH": {
+    "smiles": [
+      "*NCCCC"
+    ]
+  },
+  "(CH2)3CO2H": {
+    "smiles": [
+      "*CCCC(=O)O"
+    ]
+  },
+  "ClO2S": {
+    "smiles": [
+      "*S(=O)(=O)[Cl]"
+    ]
+  },
+  "NHB": {
+    "smiles": [
+      "*NB"
+    ]
+  },
+  "F3CO": {
+    "smiles": [
+      "*OC(F)(F)F"
+    ]
+  },
+  "SF4Cl": {
+    "smiles": [
+      "*S(F)(F)(F)(F)Cl"
+    ]
+  },
+  "SPr": {
+    "smiles": [
+      "*SCCC"
+    ]
+  },
+  "PO(OH)2": {
+    "smiles": [
+      "*P(=O)(O)O"
+    ]
+  },
+  "COOi-Pr": {
+    "smiles": [
+      "*C(=O)OC(C)C"
+    ]
+  },
+  "OSiEt3": {
+    "smiles": [
+      "*O[Si](CC)(CC)CC"
+    ]
+  },
+  "(H7C3)2N": {
+    "smiles": [
+      "*N(CCC)CCC"
+    ]
+  },
+  "HF2CO": {
+    "smiles": [
+      "*OC(F)F"
+    ]
+  },
+  "Si(CH3)3": {
+    "smiles": [
+      "*[Si](C)(C)C"
+    ]
+  },
+  "SO2(CH2)3SO2NHCH2CHCH2OH": {
+    "smiles": [
+      "*C(CO)CNS(=O)(=O)CCCS(*)(=O)=O"
+    ]
+  },
+  "Me(H)N": {
+    "smiles": [
+      "*NC"
+    ]
+  },
+  "AcHN": {
+    "smiles": [
+      "*NC(C)=O"
+    ]
+  },
+  "Si(OEt)3": {
+    "smiles": [
+      "*[Si](OCC)(OCC)OCC"
+    ]
+  },
+  "SC2H5": {
+    "smiles": [
+      "*SCC"
+    ]
+  },
+  "PMBN": {
+    "smiles": [
+      "*N(*)CC1=CC=C(OC)C=C1"
+    ]
+  },
+  "(H3C)2HC": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "OCHFCH2F": {
+    "smiles": [
+      "*OC(F)CF"
+    ]
+  },
+  "NHBu": {
+    "smiles": [
+      "*NCCCC"
+    ]
+  },
+  "NHMe": {
+    "smiles": [
+      "*NC"
+    ]
+  },
+  "NaO3SO": {
+    "smiles": [
+      "*OS(=O)(=O)O[Na]"
+    ]
+  },
+  "(CH3)2HC": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "CO2C2H5": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "BnN": {
+    "smiles": [
+      "*N(*)CC1=CC=CC=C1"
+    ]
+  },
+  "C8H17OCOCH": {
+    "smiles": [
+      "*C(*)C(=O)OCCCCCCCC"
+    ]
+  },
+  "CONCO": {
+    "smiles": [
+      "*C(=O)N=C=O"
+    ]
+  },
+  "OnPr": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "NHPr": {
+    "smiles": [
+      "*NCCC"
+    ]
+  },
+  "n-BuO": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "F2C": {
+    "smiles": [
+      "*C(*)(F)(F)"
+    ]
+  },
+  "Me2N": {
+    "smiles": [
+      "*N(C)C"
+    ]
+  },
+  "CH2CO2CH3": {
+    "smiles": [
+      "*CC(=O)OC"
+    ]
+  },
+  "CHCH2NH(CH2)6O(CH2)2OCH2": {
+    "smiles": [
+      "*COCCOCCCCCCNCC(*)*"
+    ]
+  },
+  "SO2Me": {
+    "smiles": [
+      "*S(=O)(=O)C"
+    ]
+  },
+  "CF2O": {
+    "smiles": [
+      "*C(F)(F)O*"
+    ]
+  },
+  "Cy": {
+    "smiles": [
+      "*C1CCCCC1"
+    ]
+  },
+  "HSCH2(CH2)8CH2": {
+    "smiles": [
+      "*CCCCCCCCCCS"
+    ]
+  },
+  "CH3CH2CH2": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "OSO2NH2": {
+    "smiles": [
+      "*OS(=O)(=O)N"
+    ]
+  },
+  "C3H6": {
+    "smiles": [
+      "*CCC*"
+    ]
+  },
+  "C3H7O": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "NPh2": {
+    "smiles": [
+      "*N(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "SMe": {
+    "smiles": [
+      "*SC"
+    ]
+  },
+  "OC9H19": {
+    "smiles": [
+      "*OCCCCCCCCC"
+    ]
+  },
+  "N+H": {
+    "smiles": [
+      "*[NH+](*)*"
+    ]
+  },
+  "N(H)Et": {
+    "smiles": [
+      "*NCC"
+    ]
+  },
+  "OCH2C": {
+    "smiles": [
+      "*CCO*"
+    ]
+  },
+  "C3H6O": {
+    "smiles": [
+      "*CCCO*"
+    ]
+  },
+  "MOMO": {
+    "smiles": [
+      "*OCOC"
+    ]
+  },
+  "(CH2)": {
+    "smiles": [
+      "*C*"
+    ]
+  },
+  "(CH2)8": {
+    "smiles": [
+      "*CCCCCCCC*"
+    ]
+  },
+  "COF": {
+    "smiles": [
+      "*C(=O)F"
+    ]
+  },
+  "OSO2CF3": {
+    "smiles": [
+      "*OS(=O)(=O)C(F)(F)F"
+    ]
+  },
+  "(H2C)8": {
+    "smiles": [
+      "*CCCCCCCC*"
+    ]
+  },
+  "F3C": {
+    "smiles": [
+      "*C(F)(F)F"
+    ]
+  },
+  "OPCl2": {
+    "smiles": [
+      "*OP(Cl)Cl"
+    ]
+  },
+  "C8H17OCOCH2": {
+    "smiles": [
+      "**C(=O)OCCCCCCCC"
+    ]
+  },
+  "NMe": {
+    "smiles": [
+      "*N(*)C"
+    ]
+  },
+  "CH2F": {
+    "smiles": [
+      "*CF"
+    ]
+  },
+  "OCHO": {
+    "smiles": [
+      "*OC=O"
+    ]
+  },
+  "(OCH2CH2)2OCO": {
+    "smiles": [
+      "*OCCOCCOC(*)=O"
+    ]
+  },
+  "SF5": {
+    "smiles": [
+      "*S(F)(F)(F)(F)F"
+    ]
+  },
+  "SO2F": {
+    "smiles": [
+      "*S(=O)(=O)F"
+    ]
+  },
+  "CH2(CH2)9CH3": {
+    "smiles": [
+      "*CCCCCCCCCCC"
+    ]
+  },
+  "OCF3": {
+    "smiles": [
+      "*OC(F)(F)F"
+    ]
+  },
+  "PMBO": {
+    "smiles": [
+      "*OCC1=CC=C(OC)C=C1"
+    ]
+  },
+  "OTBS": {
+    "smiles": [
+      "*O[Si](C)(C)C(C)(C)C"
+    ]
+  },
+  "CHCH": {
+    "smiles": [
+      "*C(*)C(*)*"
+    ]
+  },
+  "(HN)": {
+    "smiles": [
+      "*N"
+    ]
+  },
+  "CH3CH2": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "OAc": {
+    "smiles": [
+      "*OC(C)=O"
+    ]
+  },
+  "CD3O": {
+    "smiles": [
+      "*OC([2H])([2H])[2H]"
+    ]
+  },
+  "H5C2": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "COO-": {
+    "smiles": [
+      "*C(=O)[O-]"
+    ]
+  },
+  "LiO": {
+    "smiles": [
+      "*[Li]O"
+    ]
+  },
+  "S(CH2)7CH3": {
+    "smiles": [
+      "*SCCCCCCCC"
+    ]
+  },
+  "COOtBu": {
+    "smiles": [
+      "*C(=O)OC(C)(C)C"
+    ]
+  },
+  "(COCH2CH2CH2CH2CH2CH2O)H": {
+    "smiles": [
+      "*C(=O)CCCCCCO"
+    ]
+  },
+  "NO": {
+    "smiles": [
+      "*N=O"
+    ]
+  },
+  "nPrO": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "H3CH2C": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "CH2O": {
+    "smiles": [
+      "*CO*"
+    ]
+  },
+  "CH2OH": {
+    "smiles": [
+      "*CO"
+    ]
+  },
+  "iC3H7": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "NHSO2CH3": {
+    "smiles": [
+      "*NS(=O)(=O)C"
+    ]
+  },
+  "CHCH2CH2": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "SO2CH3": {
+    "smiles": [
+      "*S(=O)(=O)C"
+    ]
+  },
+  "C2H5S": {
+    "smiles": [
+      "*SCC"
+    ]
+  },
+  "CH2NH2": {
+    "smiles": [
+      "*CN"
+    ]
+  },
+  "BOCN": {
+    "smiles": [
+      "*N(*)C(=O)OC(C)(C)C"
+    ]
+  },
+  "n-C4H9": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "NOH": {
+    "smiles": [
+      "*NO"
+    ]
+  },
+  "CH2OOH": {
+    "smiles": [
+      "*COO"
+    ]
+  },
+  "H11C5": {
+    "smiles": [
+      "*CCCCC"
+    ]
+  },
+  "O(CH2)6": {
+    "smiles": [
+      "*CCCCCCO*"
+    ]
+  },
+  "(CH2)16": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCC*"
+    ]
+  },
+  "TfO": {
+    "smiles": [
+      "*OS(=O)(=O)C(F)(F)F"
+    ]
+  },
+  "OCH2CHOHCH2OH": {
+    "smiles": [
+      "*OCC(O)CO"
+    ]
+  },
+  "(CH2)2CH3": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "CHCH2": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "CH2CH2CH2CH2CH3": {
+    "smiles": [
+      "*CCCCC"
+    ]
+  },
+  "CH3(CH2)10CH2": {
+    "smiles": [
+      "*CCCCCCCCCCCC"
+    ]
+  },
+  "PivO": {
+    "smiles": [
+      "*OC(=O)C(C)(C)C"
+    ]
+  },
+  "COOC8H17": {
+    "smiles": [
+      "*C(=O)OCCCCCCCC"
+    ]
+  },
+  "P(O)(OK)2": {
+    "smiles": [
+      "*P(=O)(O[K])O[K]"
+    ]
+  },
+  "HCH2CH2CH2C": {
+    "smiles": [
+      "*CCCC(*)*"
+    ]
+  },
+  "EtOOC": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "CH2CH2CH2C": {
+    "smiles": [
+      "*CCCC*"
+    ]
+  },
+  "SOCH3": {
+    "smiles": [
+      "*S(=O)C"
+    ]
+  },
+  "C9H19": {
+    "smiles": [
+      "*CCCCCCCCC"
+    ]
+  },
+  "OCH2CHOHCH2NH": {
+    "smiles": [
+      "*OCC(O)CN"
+    ]
+  },
+  "OCOOMe": {
+    "smiles": [
+      "*OC(=O)OC"
+    ]
+  },
+  "OiBu": {
+    "smiles": [
+      "*OCC(C)C"
+    ]
+  },
+  "Ts": {
+    "smiles": [
+      "*S(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "CO2Et": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "H2NOC": {
+    "smiles": [
+      "*C(=O)N"
+    ]
+  },
+  "Et3Si": {
+    "smiles": [
+      "*[Si](CC)(CC)CC"
+    ]
+  },
+  "NTs": {
+    "smiles": [
+      "*N(*)S(=O)(=O)C1=CC=C(C)C=C1"
+    ]
+  },
+  "SBu": {
+    "smiles": [
+      "*SCCCC"
+    ]
+  },
+  "H3COCO": {
+    "smiles": [
+      "*OC(=O)C"
+    ]
+  },
+  "Ms": {
+    "smiles": [
+      "*S(=O)(=O)C"
+    ]
+  },
+  "Tf": {
+    "smiles": [
+      "*S(=O)(=O)C(F)(F)F"
+    ]
+  },
+  "CONH(CH2)6NHCOCH(CH2)3N-t-BOC": {
+    "smiles": [
+      "*C[N-](*)C(=O)OC(C)(C)C"
+    ]
+  },
+  "On-Pr": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "H3CO2S": {
+    "smiles": [
+      "*S(=O)(=O)C"
+    ]
+  },
+  "CO2CH3": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "COCH3": {
+    "smiles": [
+      "*C(=O)C"
+    ]
+  },
+  "N3": {
+    "smiles": [
+      "*N=[N+]=[N-]"
+    ]
+  },
+  "(CH2)11": {
+    "smiles": [
+      "*CCCCCCCCCCC*"
+    ]
+  },
+  "iPr": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "i-C4H9": {
+    "smiles": [
+      "*CC(C)C"
+    ]
+  },
+  "BzO": {
+    "smiles": [
+      "*OC(=O)C1=CC=CC=C1"
+    ]
+  },
+  "Et": {
+    "smiles": [
+      "*CC"
+    ]
+  },
+  "CH3(CH2)7S(CH2)3S": {
+    "smiles": [
+      "*CCCCSCS(=C)CCCCC"
+    ]
+  },
+  "SO2CF2H": {
+    "smiles": [
+      "*S(=O)(=O)C(F)F"
+    ]
+  },
+  "(HC)": {
+    "smiles": [
+      "*C*"
+    ]
+  },
+  "MeO": {
+    "smiles": [
+      "*OC"
+    ]
+  },
+  "CH3": {
+    "smiles": [
+      "*C"
+    ]
+  },
+  "BOCHN": {
+    "smiles": [
+      "*NC(=O)OC(C)(C)C"
+    ]
+  },
+  "HNBoc": {
+    "smiles": [
+      "*NC(=O)OC(C)(C)C"
+    ]
+  },
+  "COOC2H5": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "Boc2N": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "CbzNH": {
+    "smiles": [
+      "*NC(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "NO2": {
+    "smiles": [
+      "*[N+](=O)[O-]"
+    ]
+  },
+  "O(CH2)15CH3": {
+    "smiles": [
+      "*OCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "OSO3": {
+    "smiles": [
+      "*OS(=O)(=O)O"
+    ]
+  },
+  "(EtO)3Si": {
+    "smiles": [
+      "*[Si](OCC)(OCC)OCC"
+    ]
+  },
+  "-OOC": {
+    "smiles": [
+      "*C(=O)[O-]"
+    ]
+  },
+  "C19H39": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "EtS": {
+    "smiles": [
+      "*SCC"
+    ]
+  },
+  "Ad": {
+    "smiles": [
+      "*C13CC2CC(C1)CC(C2)C3"
+    ]
+  },
+  "ClHg": {
+    "smiles": [
+      "*Cl[Hg]"
+    ]
+  },
+  "TBDMSO": {
+    "smiles": [
+      "*O[Si](C)(C)C(C)(C)C"
+    ]
+  },
+  "H13C6": {
+    "smiles": [
+      "*CCCCCC"
+    ]
+  },
+  "NCH3": {
+    "smiles": [
+      "*N(*)C"
+    ]
+  },
+  "(CH2)16Me": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCC"
+    ]
+  },
+  "OSO3H": {
+    "smiles": [
+      "*OS(=O)(=O)O"
+    ]
+  },
+  "SCN": {
+    "smiles": [
+      "*N=C=S"
+    ]
+  },
+  "NHC10H21": {
+    "smiles": [
+      "*NCCCCCCCCCC"
+    ]
+  },
+  "CO(CH2)6CH3": {
+    "smiles": [
+      "*C(=O)CCCCCCC"
+    ]
+  },
+  "BocN": {
+    "smiles": [
+      "*N(*)C(=O)OC(C)(C)C"
+    ]
+  },
+  "Fmoc": {
+    "smiles": [
+      "*CC(=O)OCC1C3C(C2C1C=CC=C2)C=CC=C3"
+    ]
+  },
+  "(H5C2)2N": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "OPiv": {
+    "smiles": [
+      "*OC(=O)C(C)(C)C"
+    ]
+  },
+  "(CH2)18": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCC*"
+    ]
+  },
+  "CHCO2(CH2)6O": {
+    "smiles": [
+      "*COCCCOCCCOC"
+    ]
+  },
+  "NH-Boc": {
+    "smiles": [
+      "*NC(=O)OC(C)(C)C"
+    ]
+  },
+  "H9C4S": {
+    "smiles": [
+      "*SCCCC"
+    ]
+  },
+  "OCHF2": {
+    "smiles": [
+      "*OC(F)F"
+    ]
+  },
+  "tBuO": {
+    "smiles": [
+      "*OC(C)(C)C"
+    ]
+  },
+  "Et(H)N": {
+    "smiles": [
+      "*NCC"
+    ]
+  },
+  "C7H15": {
+    "smiles": [
+      "*CCCCCCC"
+    ]
+  },
+  "CH3(CH2)9S": {
+    "smiles": [
+      "*SCCCCCCCCCC"
+    ]
+  },
+  "CH2CH2CHCH2CH3": {
+    "smiles": [
+      "*CCC(*)CC"
+    ]
+  },
+  "CH2Br": {
+    "smiles": [
+      "*CBr"
+    ]
+  },
+  "(CH2)18CH3": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "CH2CH2CH2COOH": {
+    "smiles": [
+      "*CCCC(=O)O"
+    ]
+  },
+  "CH2Cl": {
+    "smiles": [
+      "*CCl"
+    ]
+  },
+  "(S)": {
+    "smiles": [
+      "*S"
+    ]
+  },
+  "NSO2NH2": {
+    "smiles": [
+      "*N(*)S(=O)(=O)N"
+    ]
+  },
+  "CONHMe": {
+    "smiles": [
+      "*C(=O)NC"
+    ]
+  },
+  "(HO2)B": {
+    "smiles": [
+      "*B(O)O"
+    ]
+  },
+  "SC3H7": {
+    "smiles": [
+      "*SCCC"
+    ]
+  },
+  "H3CO2C": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "COOCH2Ph": {
+    "smiles": [
+      "*C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "(CH2)11Me": {
+    "smiles": [
+      "*CCCCCCCCCCCC"
+    ]
+  },
+  "TBSO": {
+    "smiles": [
+      "*O[Si](C)(C)C(C)(C)C"
+    ]
+  },
+  "COH": {
+    "smiles": [
+      "*CO"
+    ]
+  },
+  "SEM": {
+    "smiles": [
+      "*COCC[Si](C)(C)C"
+    ]
+  },
+  "NCbz": {
+    "smiles": [
+      "*N(*)C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "NHCOOEt": {
+    "smiles": [
+      "*NC(=O)OCC"
+    ]
+  },
+  "CDH2": {
+    "smiles": [
+      "*C[2H]"
+    ]
+  },
+  "N(CH2CH3)2": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "(H3C)3Si": {
+    "smiles": [
+      "*[Si](C)(C)C"
+    ]
+  },
+  "OSi(CH3)3": {
+    "smiles": [
+      "*O[Si](C)(C)C"
+    ]
+  },
+  "CF2H": {
+    "smiles": [
+      "*C(F)F"
+    ]
+  },
+  "(EtO)2Si": {
+    "smiles": [
+      "*O(CC)[SiH2]O(*)CC"
+    ]
+  },
+  "OTBDPS": {
+    "smiles": [
+      "*O[Si](C(C)(C)C)(C1=CC=CC=C1)C2=CC=CC=C2"
+    ]
+  },
+  "(CH2)3CN": {
+    "smiles": [
+      "*CCCC#N"
+    ]
+  },
+  "SeF2CF3": {
+    "smiles": [
+      "*[Se](F)(F)C(F)(F)F"
+    ]
+  },
+  "NHBz": {
+    "smiles": [
+      "*NC(=O)C1=CC=CC=C1"
+    ]
+  },
+  "(CH2)2CN": {
+    "smiles": [
+      "*CCC#N"
+    ]
+  },
+  "(CH2)9CH3": {
+    "smiles": [
+      "*CCCCCCCCCC"
+    ]
+  },
+  "nC3H7": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "Et2N": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "BocHN": {
+    "smiles": [
+      "*NC(=O)OC(C)(C)C"
+    ]
+  },
+  "OC4H9": {
+    "smiles": [
+      "*OCCCC"
+    ]
+  },
+  "CO2CH2CH3": {
+    "smiles": [
+      "*C(=O)OCC"
+    ]
+  },
+  "H3CHN": {
+    "smiles": [
+      "*NC"
+    ]
+  },
+  "OSO3-": {
+    "smiles": [
+      "*OS(=O)(=O)[O-]"
+    ]
+  },
+  "SOPh": {
+    "smiles": [
+      "*S(=O)C1=CC=CC=C1"
+    ]
+  },
+  "iC4H9": {
+    "smiles": [
+      "*CC(C)C"
+    ]
+  },
+  "EtHN": {
+    "smiles": [
+      "*NCC"
+    ]
+  },
+  "CH2CH2O": {
+    "smiles": [
+      "*CCO*"
+    ]
+  },
+  "OCH2CHCH2CCH3": {
+    "smiles": [
+      "*OCC(*)CC(*)(*)C"
+    ]
+  },
+  "ClCH2CH2C": {
+    "smiles": [
+      "*C(*)(*)CCCl"
+    ]
+  },
+  "D3CO": {
+    "smiles": [
+      "*OC([2H])([2H])[2H]"
+    ]
+  },
+  "H39C19": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "H31C15": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCC"
+    ]
+  },
+  "CHO": {
+    "smiles": [
+      "*C=O"
+    ]
+  },
+  "CHF2": {
+    "smiles": [
+      "*C(F)F"
+    ]
+  },
+  "nPr": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "OCH2CH2CH3": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "NEt2": {
+    "smiles": [
+      "*N(CC)CC"
+    ]
+  },
+  "i-C3H7": {
+    "smiles": [
+      "*C(C)C"
+    ]
+  },
+  "COOBn": {
+    "smiles": [
+      "*C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "C2F5O": {
+    "smiles": [
+      "*OC(F)(F)C(F)(F)F"
+    ]
+  },
+  "CHCO2(CH2)4OOCO": {
+    "smiles": [
+      "*CCOOCCCCOOC=O"
+    ]
+  },
+  "n-Bu": {
+    "smiles": [
+      "*CCCC"
+    ]
+  },
+  "CbzN": {
+    "smiles": [
+      "*N(*)C(=O)OCC1=CC=CC=C1"
+    ]
+  },
+  "BnHN": {
+    "smiles": [
+      "*NCC1=CC=CC=C1"
+    ]
+  },
+  "OSO2F": {
+    "smiles": [
+      "*OS(=O)(=O)F"
+    ]
+  },
+  "(CH2)12": {
+    "smiles": [
+      "*CCCCCCCCCCCC*"
+    ]
+  },
+  "OC10H21": {
+    "smiles": [
+      "*OCCCCCCCCCC"
+    ]
+  },
+  "CH2CH2CH2": {
+    "smiles": [
+      "*CCC*"
+    ]
+  },
+  "(CH2)5Br": {
+    "smiles": [
+      "*CCCCCBr"
+    ]
+  },
+  "SCH3": {
+    "smiles": [
+      "*SC"
+    ]
+  },
+  "Ph3CO": {
+    "smiles": [
+      "*OC(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3"
+    ]
+  },
+  "NHBn": {
+    "smiles": [
+      "*NCC1=CC=CC=C1"
+    ]
+  },
+  "SC4H9": {
+    "smiles": [
+      "*SCCCC"
+    ]
+  },
+  "i-BuO": {
+    "smiles": [
+      "*OCC(C)C"
+    ]
+  },
+  "(CF2)8H": {
+    "smiles": [
+      "*C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)"
+    ]
+  },
+  "NB": {
+    "smiles": [
+      "*N=B"
+    ]
+  },
+  "CONHEt": {
+    "smiles": [
+      "*C(=O)NCC"
+    ]
+  },
+  "COOCH3": {
+    "smiles": [
+      "*C(=O)OC"
+    ]
+  },
+  "SO2NH(CH2)2NH": {
+    "smiles": [
+      "*[SH](*)OCNCNO"
+    ]
+  },
+  "NHSO2Bu": {
+    "smiles": [
+      "*NS(=O)(=O)CCCC"
+    ]
+  },
+  "CF2CF3": {
+    "smiles": [
+      "*C(F)(F)C(F)(F)F"
+    ]
+  },
+  "(CH2)12CH3": {
+    "smiles": [
+      "*CCCCCCCCCCCCC"
+    ]
+  },
+  "CH2CH2CH": {
+    "smiles": [
+      "*CCC"
+    ]
+  },
+  "(CH2)7": {
+    "smiles": [
+      "*CCCCCCC*"
+    ]
+  },
+  "CBr3": {
+    "smiles": [
+      "*C(Br)(Br)Br"
+    ]
+  },
+  "(CH2)7CH3": {
+    "smiles": [
+      "*CCCCCCCC"
+    ]
+  },
+  "OBz": {
+    "smiles": [
+      "*OC(=O)C1=CC=CC=C1"
+    ]
+  },
+  "NHPh": {
+    "smiles": [
+      "*NC1=CC=CC=C1"
+    ]
+  },
+  "PC": {
+    "smiles": [
+      "*PC"
+    ]
+  },
+  "(CH2CHO)": {
+    "smiles": [
+      "*CC(*)O*"
+    ]
+  },
+  "C18H37": {
+    "smiles": [
+      "*CCCCCCCCCCCCCCCCCC"
+    ]
+  },
+  "(CH3)3SiO": {
+    "smiles": [
+      "*O[Si](C)(C)C"
+    ]
+  },
+  "O2C": {
+    "smiles": [
+      "*OC(=O)*"
+    ]
+  },
+  "N+": {
+    "smiles": [
+      "*[NH3+]"
+    ]
+  },
+  "N(BOC)2": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "OCH2CH2CH2CH2CH2CH3": {
+    "smiles": [
+      "*OCCCCCC"
+    ]
+  },
+  "OCH": {
+    "smiles": [
+      "*OC"
+    ]
+  },
+  "CO2iPr": {
+    "smiles": [
+      "*C(=O)OC(C)C"
+    ]
+  },
+  "C3H7S": {
+    "smiles": [
+      "*SCCC"
+    ]
+  },
+  "(Boc)2N": {
+    "smiles": [
+      "*N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C"
+    ]
+  },
+  "(CH3)3Si": {
+    "smiles": [
+      "*[Si](C)(C)C"
+    ]
+  },
+  "(OH)": {
+    "smiles": [
+      "*O"
+    ]
+  },
+  "PiPr3": {
+    "smiles": [
+      "*[PH](C(C)C)(C(C)C)C(C)C"
+    ]
+  },
+  "tC4H9": {
+    "smiles": [
+      "*C(C)(C)C"
+    ]
+  },
+  "i-PrO": {
+    "smiles": [
+      "*OC(C)C"
+    ]
+  },
+  "H2NO2S": {
+    "smiles": [
+      "*S(=O)(=O)N"
+    ]
+  },
+  "(CH)": {
+    "smiles": [
+      "*C"
+    ]
+  },
+  "NBOC": {
+    "smiles": [
+      "*N(*)C(=O)OC(C)(C)C"
+    ]
+  },
+  "(MeO)3Si": {
+    "smiles": [
+      "*[Si](OC)(OC)OC"
+    ]
+  },
+  "H3COCOH2C": {
+    "smiles": [
+      "*COC#CO"
+    ]
+  },
+  "H7C3O": {
+    "smiles": [
+      "*OCCC"
+    ]
+  },
+  "CONH2": {
+    "smiles": [
+      "*C(=O)N"
+    ]
+  }
+}
