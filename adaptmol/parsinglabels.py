@@ -79,7 +79,7 @@ def parse_mol_file(mol_path: str) -> Optional[MolData]:
         
         counts_line = lines[3].strip()
         if len(counts_line) < 6:
-            print(f"警告: counts line格式不正确 - {mol_path}")
+            
             return None
             
         
@@ -94,7 +94,7 @@ def parse_mol_file(mol_path: str) -> Optional[MolData]:
         
         current_line = 4
         
-        # 解析原子块
+        
         atoms = []
         for i in range(atom_count):
             if current_line >= len(lines):
@@ -109,7 +109,7 @@ def parse_mol_file(mol_path: str) -> Optional[MolData]:
             atoms.append(atom)
             current_line += 1
         
-        # 解析化学键块
+        
         bonds = []
         for i in range(bond_count):
             if current_line >= len(lines):
@@ -627,9 +627,6 @@ def process_csv_mol_data(mol_path):
     return record
     
 
-# a = process_csv_mol_data("/home/feng/cheminfo/MolDepictor/generated_sample/test.mol")
-# for i  in a["atoms"]:
-#     print(i["symbol"])
 
 from dataclasses import dataclass
 import numpy as np
