@@ -1,4 +1,4 @@
-# Portions of this file are based on code from [项目名称]
+# Portions of this file are based on code from MolScribe 
 # Copyright (c) 2022 Yujie Qian
 # Licensed under MIT License
 
