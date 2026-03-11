@@ -67,8 +67,8 @@ def get_args():
     group.add_argument("--max_relative_positions", help="Max relative positions", type=int, default=0)
     # Data
     parser.add_argument('--data_path', type=str, default=None)
-    parser.add_argument('--fintune', type=str, default=None)
-    parser.add_argument('--fintune_label', type=str, default=None)
+    parser.add_argument('--finetune', type=str, default=None)
+    parser.add_argument('--finetune_label', type=str, default=None)
     parser.add_argument('--train_file', type=str, default=None)
     parser.add_argument('--validation_file', type=str, default=None)
     parser.add_argument('--mmd_file', type=str, default=None)
@@ -788,7 +788,7 @@ def inference(args, data_df, tokenizer, encoder=None, decoder=None, save_path=No
     print('Save predictions...')
 
     file = data_df.attrs['file'].split('/')[-1]
-    with open(os.path.join(save_path,f'wrong_cases_{file}.json'), 'w') as f:
+    with open(os.path.join(save_path,f'predicted_{file}.json'), 'w') as f:
         json.dump({
             'correct': [str(x) for x in correct_case],
             'wrong': [str(x) for x in wrong_case]
@@ -797,7 +797,7 @@ def inference(args, data_df, tokenizer, encoder=None, decoder=None, save_path=No
     # pred_df = pred_df[pred_df['image_id'].isin(wrong_case_with_chari)]
     if args.predict_coords:
         pred_df = pred_df[['image_id', 'SMILES', 'node_coords']]
-    pred_df.to_csv(os.path.join(save_path, f'prediction1_{file}'), index=False)
+    pred_df.to_csv(os.path.join(save_path, f'prediction_{file}'), index=False)
     # Save scores
     if  split == 'test':
         with open(os.path.join(save_path, f'eval_scores_{os.path.splitext(file)[0]}_{args.load_ckpt}.json'), 'w') as f:
@@ -890,8 +890,8 @@ def main():
         torch.backends.cudnn.benchmark = True
     finetune_df = None
     finetune_df1 = None
-    if args.fintune is not None:
-        finetune_df, finetune_df1 = read_pesudo_lable(args.fintune, args.fintune_label)
+    if args.finetune_data is not None:
+        finetune_df, finetune_df1 = read_pesudo_lable(args.finetune_data, args.finetune_label)
     args.formats = args.formats.split(',')
     args.nodes = any([f in args.formats for f in ['atomtok_coords', 'chartok_coords']])
     args.edges = any([f in args.formats for f in ['atomtok_coords', 'chartok_coords']])

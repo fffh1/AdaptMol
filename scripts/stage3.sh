@@ -23,8 +23,8 @@ torchrun \
     --validation_file test.csv \
     --test_file real/USPTO.csv \
     --valid_file real/USPTO.csv \
-    --fintune output/uspto/wrong_cases_train_680k.csv.json,output/stage2/wrong_cases_handdraw_train.csv.json \
-    --fintune_label output/uspto/prediction1_train_680k.csv,output/stage2/prediction1_handdraw_train.csv \
+    --finetune_data output/uspto/predicted_train_680k.csv.json,output/stage2/predicted_handdraw_train.csv.json \
+    --finetune_label output/uspto/prediction_train_680k.csv,output/stage2/prediction_handdraw_train.csv \
     --vocab_file adaptmol/vocab/vocab_chars.json \
     --formats chartok_coords,edges \
     --coord_bins 64 --sep_xy \

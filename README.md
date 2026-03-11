@@ -60,6 +60,67 @@ bash scripts/stage2.sh
 bash scripts/stage3.sh
 ```
 
+
+## Training Script Parameters
+
+### Common Parameters
+
+- `--data_path`: Base directory prefix for all data file paths
+- `--train_file`: Path to training data file (relative to `data_path`)
+- `--validation_file`: Path to validation file, evaluated after each epoch during training
+- `--test_file`: Path to test set file, used for final model evaluation after training completes
+- `--valid_file`: Path to single-file validation for post-training evaluation
+- `--save_path`: Directory to save model checkpoints, evaluation results, and training logs
+- `--vocab_file`: Path to vocabulary file mapping tokens to characters (e.g., `adaptmol/vocab/vocab_chars.json`)
+- `--molblock`: When present, model outputs both SMILES and MOL file format
+
+### Data Format Parameters
+
+- `--coord_bins`: Number of coordinate bins for discretization (default: 64)
+- `--sep_xy`: Use separate encoding for x and y coordinates
+- `--input_size`: Input image resolution (e.g., 384×384)
+
+### Training Hyperparameters
+
+- `--encoder_lr`: Learning rate for encoder (e.g., 4e-6)
+- `--decoder_lr`: Learning rate for decoder (e.g., 4e-6)
+- `--epochs`: Number of training epochs
+- `--batch_size`: Batch size per GPU (automatically calculated: `BATCH_SIZE / NUM_GPUS_PER_NODE / ACCUM_STEP`)
+- `--gradient_accumulation_steps`: Number of gradient accumulation steps before updating weights
+- `--warmup`: Warmup ratio for learning rate scheduler
+- `--label_smoothing`: Label smoothing factor to prevent overfitting (e.g., 0.1)
+
+### Training Flags
+
+- `--augment`: Enable data augmentation
+- `--do_train`: Enable training mode
+- `--do_valid`: Enable validation during training
+- `--do_test`: Enable testing after training
+- `--fp16`: Use mixed precision (FP16) training for efficiency
+- `--use_checkpoint`: Enable gradient checkpointing to save memory
+
+### Stage-Specific Parameters
+
+#### Stage 2 Parameters
+
+- `--mmd_file`: Path to hand-drawn dataset CSV file
+- `--load_path`: Path to pretrained model checkpoint or previous stage model (e.g., `output/stage1/swin_base_transformer_best.pth`)
+- `--resume`: Continue training from loaded checkpoint (preserves training state)
+- `--init_scheduler`: Reset scheduler settings for the loaded model, including:
+  - Encoder and decoder learning rates
+  - Training epoch counter
+
+#### Stage 3 Parameters
+
+- `--finetune_data`: Path to predicted data suitable for fine-tuning (i.e. generated from Stage 2)
+- `--finetune_label`: Predicted labels corresponding to `finetune_data`
+
+### Other Parameters
+
+- `--save_mode`: Checkpoint saving strategy (e.g., `all` to save all checkpoints)
+- `--print_freq`: Logging frequency (print every N batches, e.g., 50)
+
+
 ## Paper Result Evaluation
 
 To reproduce the results reported in our paper:
