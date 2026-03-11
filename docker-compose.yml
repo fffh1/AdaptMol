@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  adaptmol:
+    build: .
+    container_name: adaptmol
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
+    # Uncomment below if running on Linux with NVIDIA GPU:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]

@@ -21,11 +21,24 @@ Download our pretrained model from: [model](https://huggingface.co/fffh1/AdaptMo
 
 ## Installation
 
-Create the conda environment using the provided configuration file:
+### Option 1: Conda (Linux only)
+
 ```bash
 conda env create -f environment.yml
 conda activate adaptmol
 ```
+
+
+
+### Option 2: Docker 
+
+Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed, then:
+
+```bash
+docker-compose up --build -d
+docker exec -it adaptmol bash
+```
+
 
 ## Usage
 
