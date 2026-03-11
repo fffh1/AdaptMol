@@ -21,7 +21,7 @@ Download our pretrained model from: [model](https://huggingface.co/fffh1/AdaptMo
 
 ## Installation
 
-### Option 1: Conda (Linux only)
+### Option 1: Conda 
 
 ```bash
 conda env create -f environment.yml
